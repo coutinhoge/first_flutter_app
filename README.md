@@ -18,8 +18,7 @@
 
 <div align="center">
     <h3>Review do App funcionando</h3>
-    <iframe width="420" height="345" src="https://youtu.be/yban4AM6Wd4">
-    </iframe>
+    
+ [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/yban4AM6Wd4 "Everything Is AWESOME")
+    
 </div>
-
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/yban4AM6Wd4 "Everything Is AWESOME")
