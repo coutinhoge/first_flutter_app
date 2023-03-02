@@ -1,24 +1,23 @@
 <div align="center">
-    <h3>First Flutter App - FFA</h3>
+    <h2><i></i>First Flutter App - FFA</h2>
 </div>
 
 <div align="center">
-    <h3>Dependencias</h3>
-    <p>- Nenhuma; alem das padroes ... cupertino e material.</P>
+    <h3><i></i>Dependências</h3>
+    <p>- Nenhuma; além das padrões... Cupertino e Material.</P>
 </div>
 
 <div align="center">
-    <h3>Como Rodar?</h3>
-    <h4>- Ha uma build para android gerada disponivel para download</h4>
+    <h3><i>Como Rodar?</i></h3>
+    <h3><i>- Ha uma build para Android gerada disponível para download</i></h3>
     <p><a href="https://github.com/coutinhoge/first_flutter_app/tree/main/lib/apks/">Fazer Download</a>.</p>
-    <h4>- Caso decida baixar o projeto na sua maquina local</h4>
-    <p>- no cli do seu SO ou IDE, dentro da pasta raiz do projeto... digite: flutter pub get - (isso fara o download
-        dos pacotes necessarios e limpara possiveis erros previstos)</p>
+    <h3><i>- Caso decida baixar o projeto na sua máquina</i></h3>
+    <p>Rode no CLI do seu SO ou IDE, dentro da pasta raiz do projeto... "flutter pub get"</p>
 </div>
 
 <div align="center">
-    <h3>Review do App funcionando - (Clique na imagem para ver o video completo)</h3>
+    <h3><i>Video da Aplicação funcionando</i></h3>
     
- [![Everything Is AWESOME](https://i.ytimg.com/an_webp/yban4AM6Wd4/mqdefault_6s.webp?du=3000&sqp=CLbTgaAG&rs=AOn4CLD9br_N9LLKZ0O36jPuKjUnmAPEzA)](https://youtu.be/yban4AM6Wd4 "Everything Is AWESOME")
+[Assistir](https://youtu.be/yban4AM6Wd4)
     
 </div>
