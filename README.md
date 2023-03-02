@@ -1,13 +1,23 @@
-<div>
+<div align="center">
     <h3>First Flutter App - FFA</h3>
 </div>
 
-<div>
+<div align="center">
     <h3>Dependencias</h3>
-    <p>- Nenhuma</P>
+    <p>- Nenhuma; alem das padroes ... cupertino e material.</P>
 </div>
 
-<div>
-    <h3>Review</h3>
-    <iframe width="420" height="315" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe>
+<div align="center">
+    <h3>Como Rodar?</h3>
+    <h4>- Ha uma build para android gerada disponivel para download</h4>
+    <p><a href="https://github.com/coutinhoge/first_flutter_app/tree/main/lib/apks/">Fazer Download</a>.</p>
+    <h4>- Caso decida baixar o projeto na sua maquina local</h4>
+    <p>- no cli do seu SO ou IDE, dentro da pasta raiz do projeto... digite: flutter pub get - (isso fara o download
+        dos pacotes necessarios e limpara possiveis erros previstos)</p>
+</div>
+
+<div align="center">
+    <h3>Review do App funcionando</h3>
+    <iframe width="420" height="345" src="https://youtu.be/yban4AM6Wd4">
+    </iframe>
 </div>
