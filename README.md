@@ -17,8 +17,8 @@
 </div>
 
 <div align="center">
-    <h3>Review do App funcionando</h3>
+    <h3>Review do App funcionando - (Clique na imagem para ver o video completo)</h3>
     
- [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/yban4AM6Wd4 "Everything Is AWESOME")
+ [![Everything Is AWESOME](https://i.ytimg.com/an_webp/yban4AM6Wd4/mqdefault_6s.webp?du=3000&sqp=CLbTgaAG&rs=AOn4CLD9br_N9LLKZ0O36jPuKjUnmAPEzA)](https://youtu.be/yban4AM6Wd4 "Everything Is AWESOME")
     
 </div>
