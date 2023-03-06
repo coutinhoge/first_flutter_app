@@ -1,9 +1,9 @@
 <div align="center">
-    <h2><i></i>First Flutter App - FFA</h2>
+    <h2><i>First Flutter App - FFA</i></h2>
 </div>
 
 <div align="center">
-    <h3><i></i>Dependências</h3>
+    <h3><i>Dependências</i></h3>
     <p>- Nenhuma; além das padrões... Cupertino e Material.</P>
 </div>
 
